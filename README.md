@@ -8,11 +8,11 @@ Blocks online advertisements through domain filter
 4. Viola!
 
 # Note
-Made using Batch programming language.
+Made using **Batch** programming language.
 This will most likely only filter ad images(incl. gifs) from the site you visit. The AdGuard Public DNS does not store any of your data.
 
 # Credits
-Special thanks to AdGuard's Public DNS.
+Special thanks to [AdGuard's Public DNS](https://adguard.com/en/adguard-dns/overview.html).
 
 # Changelog
 No modifications yet.
