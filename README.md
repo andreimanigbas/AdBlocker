@@ -2,7 +2,7 @@
 Blocks online advertisements through domain filter
 
 # Instructions
-1. Download file(s)
+1. Download [here](https://github.com/andreimanigbas/AdBlocker/archive/master.zip)
 2. Run as administrator (required to change DNS)
 3. Press 1 and Enter
 4. Viola!
